@@ -1,6 +1,6 @@
 # Mapping_Earthquakes
 Earthquake mapping using Javascript, HTML, and CSS
 
-**Note: This repository is deprecated and is not actively maintained.**
+An interactive map showcsing recent earthquakes across the globe
 
-Please see (https://github.com/LJD0/Weather_Map) for an updated version.
+Check out the map at 
